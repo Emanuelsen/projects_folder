@@ -1,2 +1,2 @@
 # projects_folder
-Collection of scripts from previous projects through university
+Collection of selected scripts from previous projects through university
